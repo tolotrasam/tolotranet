@@ -6,10 +6,10 @@
     <link rel="stylesheet" type="text/css" href="homestyle.css">
     <script src="jquery.min.js"></script>
 <script src='//cdn.tinymce.com/4/tinymce.min.js'></script>
-<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
-<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="css/horizontalnav.css" />
-    <script type="text/javascript" src="http://www.google.com/jsapi"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
     <script type="text/javascript" src="js/horizontalnav.js"></script>
 
 
@@ -71,7 +71,7 @@
 			 <div class="rightpanel">
 <!-- start of user drop down -->
                             <link rel="stylesheet" type="text/css" href="css/style.css" />
-                            <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css' />
+                            <link href='https://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css' />
 
                             <div class="container-left">
                                 <section class="main left">
@@ -96,7 +96,7 @@
 
                             </div>
                             <!-- jQuery if needed -->
-                            <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+                            <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
                             <script type="text/javascript">
 
                                 function DropDown5(el) {

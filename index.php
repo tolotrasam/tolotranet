@@ -32,7 +32,9 @@
 							</div></a>
 		</div>
 		<!-- /open close menu-->
-					<?php require 'php-static-component\search-bar.php'?>
+					<?php 
+					//require 'php-static-component\search-bar.php'
+					?>
 							<!-- horizontalnav close menu-->
 			   <div class= "eventpopupwrap">
 			   <div class = "eventpopup">
@@ -136,7 +138,9 @@
 				<!-- mp-menu -->
 				<nav id="mp-menu" class="mp-menu">
 					<div class="mp-level">
-						<?php require 'php-static-component\nav.php'?>
+						<?php 
+						//require 'php-static-component\nav.php'
+						?>
 					</div>
 				</nav>
 				<!-- /mp-menu -->
@@ -177,7 +181,9 @@
                                         <div class="row">
 											
                                    <form action="feed/feedcollect.php" method="post" role="form" enctype="multipart/form-data" class="facebook-share-box" target = "targetframe">
-							<!-- type starts--><div><?php require 'php-static-component/droptype.php'?>
+							<!-- type starts--><div><?php 
+							//require 'php-static-component/droptype.php'
+							?>
 												</div>
 													<div class="col-md-6 col-md-offset-3">
                                                     <ul class="post-types">
@@ -243,7 +249,9 @@
                                                         </div>
 														
                                                     </div>
-													 <div class="containerdropboxes"><?php require 'php-static-component/dropdownmenu.php'?>
+													 <div class="containerdropboxes"><?php 
+													 //require 'php-static-component/dropdownmenu.php'
+													 ?>
                                                              <input type="submit" name="submit" id = "mainpost" value="Post" class="btn btn-primary"></div>
 											
                                             </div>

@@ -73,8 +73,8 @@
 			 <div class="rightpanel">
 <!-- start of user drop down -->
                             <link rel="stylesheet" type="text/css" href="css/style.css" />
-                            <link href='https://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css' />
-
+                            <!--<link href='https://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css' />
+-->
                             <div class="container-left">
                                 <section class="main left">
 									 

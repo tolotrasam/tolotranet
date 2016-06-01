@@ -1,5 +1,5 @@
 <?php
-  // require('session.php');
+  include('session.php');
 ?>	
 	<!-- Nav horizontalnav -->
     <title>Welcome </title>

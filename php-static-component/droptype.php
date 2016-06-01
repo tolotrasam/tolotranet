@@ -1,6 +1,6 @@
 
                                                                             <link rel="stylesheet" type="text/css" href="css/style.css" />
-                                                                            <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css' />
+                                                                            <link href='https://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css' />
                                                                                                                                                                                                                            
                                                                                 <section class="main right">
                                                                                     <div class="wrapper-demo">
@@ -18,7 +18,7 @@
                                                                                 </section>
 
                                                                             <!-- jQuery if needed -->
-                                                                            <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+                                                                            <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
                                                                             <script type="text/javascript">
 
                                                                                 function DropDownIco(el) {

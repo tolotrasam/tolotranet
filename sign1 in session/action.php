@@ -42,14 +42,14 @@ echo "<br>checkpoint one</br>";
 // die;
 if ($count == 0) {
 //variable and insertion post method to table
-$sql = "INSERT INTO loginlist1 (username,password, first_name,last_name,email) VALUES ('$value1','$value2','$value5', '$value4', '$value3')";
+$sql = "INSERT INTO loginlist1 (username,password, first_name,last_name,email,gadget ) VALUES ('$value1','$value2','$value5', '$value4', '$value3','php-static-component/\postvisual.php' )";
    echo $value1; 
 // for mysqli error, we add conn between the brackets
 if (mysqli_query($conn, $sql)) {
 	 echo $value1;
 echo '<br>after this<br>';	 
 	echo $_SESSION['login_user'] = $value1;
-    	header ("Location: ../welcome.php");
+    	header ("Location: ../index.php");
 		echo "New record created successfully";
 } else {
     echo "Error: " . $sql . "<br>" . mysqli_error($conn);
